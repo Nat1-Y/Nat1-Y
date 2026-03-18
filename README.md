@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Natnael Yohannes</h1>
+<h3 align="center">Full Stack Developer | Flutter | AI Enthusiast</h3>
 
-<!--
-**Nat1-Y/Nat1-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Working on: School Management System
+- 🌱 Learning: Advanced Backend & AI
+- 💬 Ask me about: Flutter, Node.js, APIs
+- 📫 Reach me: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,nodejs,python,cpp,mysql,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Natnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nat1-Y&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Nat1-Y&theme=radical)
+
+---
+
+### 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nat1-Y&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with me
+<p>
+  <a href="https://linkedin.com/in/your-link">LinkedIn</a>
+</p>
