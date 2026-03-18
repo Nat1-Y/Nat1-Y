@@ -35,5 +35,5 @@
 
 ### 🤝 Connect with me
 <p>
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/natnael-yohannes-898952275/">LinkedIn</a>
 </p>
