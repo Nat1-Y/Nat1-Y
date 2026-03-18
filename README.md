@@ -7,7 +7,7 @@
 - 🔭 Working on: web apps, websites and mobile apps
 - 🌱 Learning: Advanced Backend & AI
 - 💬 Ask me about: Flutter, Node.js, APIs
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: natiyohannes.2017@gmail.com
 
 ---
 
