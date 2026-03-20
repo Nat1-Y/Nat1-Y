@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🔭 Working on: web apps, websites and mobile apps
 - 🌱 Learning: Advanced Backend & AI
-- 💬 Ask me about: Flutter, Node.js, APIs
+- 💬 Ask me about: Flutter, Node.js, APIs,Next.js, Nest.js, React, CI/CD, Devops
 - 📫 Reach me: natiyohannes.2017@gmail.com
 
 ---
