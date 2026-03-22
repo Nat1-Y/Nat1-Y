@@ -33,7 +33,7 @@
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Connect with me linkedin
 <p>
   <a href="https://www.linkedin.com/in/natnael-yohannes-898952275/">LinkedIn</a>
 </p>
