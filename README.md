@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natnael Yohannes</h1>
-<h3 align="center">Full Stack Developer | Flutter | AI Enthusiast and trying Devops</h3>
+<h3 align="center">Full Stack Developer | Flutter | AI Enthusiast and intermediate level Devops</h3>
 
 ---
 
